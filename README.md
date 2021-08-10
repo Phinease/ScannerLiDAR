@@ -12,7 +12,7 @@ More commercial softwares are recommended in the end.**
 ## Getting Started
 
 ### Hardware
-You may need a decent GPU for realtime processing and a high-speed disk for recording.
+You may need a decent GPU for realtime processing and a high-speed disk for recording. Windows is the preferable platform, but linux is equaly runnable.
 
 ### Prerequisites
 Make sure you have installed all of the following prerequisites on your development machine:
